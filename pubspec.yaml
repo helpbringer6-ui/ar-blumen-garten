@@ -11,12 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-# Weitere Abhängigkeiten für AR können hier hinzugefügt werden.
-# Fügen Sie Pakete hinzu, die für die funktionale Entwicklung erforderlich sind. 
-# Beispiel für AR-Pakete:
-#  arcore_flutter_plugin: ^0.7.0
-#  ar_flutter_plugin: ^0.5.0
+  # Weitere Abhängigkeiten für AR können hier hinzugefügt werden.
+  # Fügen Sie Pakete hinzu, die für die funktionale Entwicklung erforderlich sind. 
+  # Beispiel für AR-Pakete:
+  # arcore_flutter_plugin: ^0.7.0
+  # ar_flutter_plugin: ^0.5.0
 
-# Beispielabhängigkeiten für die AR-Funktionalität hinzufügen:
+  # Beispielabhängigkeiten für die AR-Funktionalität hinzufügen:
   arcore_flutter_plugin: ^0.7.0
   ar_flutter_plugin: ^0.5.0
