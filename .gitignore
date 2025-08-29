@@ -1,3 +1,4 @@
+# Dateien, die in der Versionskontrolle ignoriert werden sollen
 build/
 *.log
 *.DS_Store
