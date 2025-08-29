@@ -1,4 +1,5 @@
 name: ar_blumen_garten
+
 description: Eine Augmented-Reality-Anwendung zur Visualisierung von Blumen in einem Garten.
 
 version: 1.0.0
@@ -15,3 +16,7 @@ dependencies:
 # Beispiel für AR-Pakete:
 #  arcore_flutter_plugin: ^0.7.0
 #  ar_flutter_plugin: ^0.5.0
+
+# Beispielabhängigkeiten für die AR-Funktionalität hinzufügen:
+  arcore_flutter_plugin: ^0.7.0
+  ar_flutter_plugin: ^0.5.0
