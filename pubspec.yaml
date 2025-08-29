@@ -1,0 +1,13 @@
+name: ar_blumen_garten
+description: Eine Augmented-Reality-Anwendung zur Visualisierung von Blumen in einem Garten.
+
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+# Weitere Abhängigkeiten für AR können hier hinzugefügt werden.
